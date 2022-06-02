@@ -1,0 +1,1 @@
+# CNS11643-Unicode-Cangjie
