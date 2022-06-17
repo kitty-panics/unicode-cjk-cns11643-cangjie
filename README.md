@@ -74,14 +74,14 @@ U+4E18	丘	1-4563	hlm,om
 [C 区没有编码的字]: 无CNS.CJK-Unified-Ideographs-Extension-C.txt
 [D 区没有编码的字]: 无CNS.CJK-Unified-Ideographs-Extension-D.txt
 [E 区没有编码的字]: 无CNS.CJK-Unified-Ideographs-Extension-E.txt
-[Compat 区没有编码的字]: CJK-Compatibility-Ideographs.txt
-[Compat-Supplement 区没有编码的字]: CJK-Compatibility-Ideographs-Supplement.txt
+[Compat 区没有编码的字]: 无CNS.CJK-Compatibility-Ideographs.txt
+[Compat-Supplement 区没有编码的字]: 无CNS.CJK-Compatibility-Ideographs-Supplement.txt
 
 ## 参考资料
 
 参考资料可在 [参考资料] 目录下找到。其中非文件类的在线资料将转换成 PDF 快照存放。
 
-+ [CNS11643 中文標準交換碼全字庫]
++ 2022-06-15 更新的 [CNS11643 中文標準交換碼全字庫]
 
 [参考资料]: 参考资料
 [CNS11643 中文標準交換碼全字庫]: https://data.gov.tw/dataset/5961
