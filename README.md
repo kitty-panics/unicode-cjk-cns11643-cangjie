@@ -17,24 +17,39 @@
 
 ## 数据格式
 
-每个文件一行一字，以 Tab (制表符) 进行分割，例：
+每个文件一行一字，以 Tab (制表符) 进行分割，如果某字存在多个 Cangjie 编码时，以
+`,` (英文逗号) 字符进行分割，例：
 
 ```Text
+U+4E00	一	1-4421	m
+U+4E01	丁	1-4423	mn
+U+4E0F	丏	2-212D	mlvs
+U+4E18	丘	1-4563	hlm,om
 ```
 
 ## 文件列表
 
 + [All.txt] (整合下面 CJK/A/B/C/D/E/F/G/Compatibility/Compatibility-Supplement)
 + [CJK-Unified-Ideographs.txt] (中日韩统一表意文字)
+    + [Basic 区没有编码的字]
 + [CJK-Unified-Ideographs-Extension-A.txt] (中日韩统一表意文字扩展区 A)
+    + [A 区没有编码的字]
 + [CJK-Unified-Ideographs-Extension-B.txt] (中日韩统一表意文字扩展区 B)
+    + [B 区没有编码的字]
 + [CJK-Unified-Ideographs-Extension-C.txt] (中日韩统一表意文字扩展区 C)
+    + [C 区没有编码的字]
 + [CJK-Unified-Ideographs-Extension-D.txt] (中日韩统一表意文字扩展区 D)
+    + [D 区没有编码的字]
 + [CJK-Unified-Ideographs-Extension-E.txt] (中日韩统一表意文字扩展区 E)
+    + [E 区没有编码的字]
 + [CJK-Unified-Ideographs-Extension-F.txt] (中日韩统一表意文字扩展区 F)
+    + 所有字都没有编码
 + [CJK-Unified-Ideographs-Extension-G.txt] (中日韩统一表意文字扩展区 G)
+    + 所有字都没有编码
 + [CJK-Compatibility-Ideographs.txt] (中日韩兼容表意文字)
+    + [Compat 区没有编码的字]
 + [CJK-Compatibility-Ideographs-Supplement.txt] (中日韩兼容表意文字增补)
+    + [Compat-Supplement 区没有编码的字]
 
 **注：**
 
@@ -53,10 +68,22 @@
 [CJK-Compatibility-Ideographs.txt]: CJK-Compatibility-Ideographs.txt
 [CJK-Compatibility-Ideographs-Supplement.txt]: CJK-Compatibility-Ideographs-Supplement.txt
 
+[Basic 区没有编码的字]: 无CNS.CJK-Unified-Ideographs.txt
+[A 区没有编码的字]: 无CNS.CJK-Unified-Ideographs-Extension-A.txt
+[B 区没有编码的字]: 无CNS.CJK-Unified-Ideographs-Extension-B.txt
+[C 区没有编码的字]: 无CNS.CJK-Unified-Ideographs-Extension-C.txt
+[D 区没有编码的字]: 无CNS.CJK-Unified-Ideographs-Extension-D.txt
+[E 区没有编码的字]: 无CNS.CJK-Unified-Ideographs-Extension-E.txt
+[Compat 区没有编码的字]: CJK-Compatibility-Ideographs.txt
+[Compat-Supplement 区没有编码的字]: CJK-Compatibility-Ideographs-Supplement.txt
+
 ## 参考资料
+
+参考资料可在 [参考资料] 目录下找到。其中非文件类的在线资料将转换成 PDF 快照存放。
 
 + [CNS11643 中文標準交換碼全字庫]
 
+[参考资料]: 参考资料
 [CNS11643 中文標準交換碼全字庫]: https://data.gov.tw/dataset/5961
 
 ## 相关项目

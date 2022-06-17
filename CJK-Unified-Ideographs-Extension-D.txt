@@ -1,0 +1,222 @@
+U+2B740	𫝀	
+U+2B741	𫝁	11-7352	mllr
+U+2B742	𫝂	11-7359	myhl
+U+2B743	𫝃	11-746A	mfbo
+U+2B744	𫝄	11-7350	ho
+U+2B745	𫝅	11-7353	yio
+U+2B746	𫝆	11-7351	omm
+U+2B747	𫝇	11-7362	omli
+U+2B748	𫝈	11-7363	obkq
+U+2B749	𫝉	11-7427	omsr
+U+2B74A	𫝊	11-743D	oiwi
+U+2B74B	𫝋	11-745C	olet
+U+2B74C	𫝌	11-7372	ldmc
+U+2B74D	𫝍	
+U+2B74E	𫝎	
+U+2B74F	𫝏	11-7323	imyhh
+U+2B750	𫝐	11-7373	taln
+U+2B751	𫝑	
+U+2B752	𫝒	11-735A	laj
+U+2B753	𫝓	11-7364	jkso
+U+2B754	𫝔	11-7374	gtmu
+U+2B755	𫝕	11-735B	mrv
+U+2B756	𫝖	11-7428	nmsc
+U+2B757	𫝗	
+U+2B758	𫝘	11-733C	rku
+U+2B759	𫝙	11-7322	hrym
+U+2B75A	𫝚	11-746B	rjji
+U+2B75B	𫝛	11-732B	dubmr
+U+2B75C	𫝜	11-752E	rkdg
+U+2B75D	𫝝	
+U+2B75E	𫝞	11-732C	rmbs
+U+2B75F	𫝟	11-744D	gywg
+U+2B760	𫝠	11-746C	gmwm
+U+2B761	𫝡	11-7479	nbg
+U+2B762	𫝢	11-7354	niji
+U+2B763	𫝣	11-735C	niqi
+U+2B764	𫝤	11-7429	fqmk
+U+2B765	𫝥	11-7526	tkiav
+U+2B766	𫝦	11-735D	vbo
+U+2B767	𫝧	11-7375	vusu
+U+2B768	𫝨	11-7376	vbkq
+U+2B769	𫝩	11-742A	vqki
+U+2B76A	𫝪	11-742B	vmbo
+U+2B76B	𫝫	11-742C	vdt
+U+2B76C	𫝬	11-744E	vlmo
+U+2B76D	𫝭	11-746D	vbov
+U+2B76E	𫝮	11-747A	vlsw
+U+2B76F	𫝯	11-747B	hbnd
+U+2B770	𫝰	
+U+2B771	𫝱	11-747C	jphn
+U+2B772	𫝲	11-7355	skni
+U+2B773	𫝳	11-7356	un
+U+2B774	𫝴	11-7377	uhmr
+U+2B775	𫝵	
+U+2B776	𫝶	11-743E	irog
+U+2B777	𫝷	11-743F	ireg
+U+2B778	𫝸	11-7378	yhho
+U+2B779	𫝹	11-7365	ommp
+U+2B77A	𫝺	11-7324	qbqu
+U+2B77B	𫝻	11-7328	qwr
+U+2B77C	𫝼	
+U+2B77D	𫝽	11-7335	qohl
+U+2B77E	𫝾	11-733D	qjon
+U+2B77F	𫝿	11-7535	qygn
+U+2B780	𫞀	11-7440	ysiok
+U+2B781	𫞁	11-745D	ystgk
+U+2B782	𫞂	
+U+2B783	𫞃	11-7379	acr
+U+2B784	𫞄	
+U+2B785	𫞅	11-742D	bsmi
+U+2B786	𫞆	11-744F	brok
+U+2B787	𫞇	11-7450	bfhn
+U+2B788	𫞈	11-7366	dsim
+U+2B789	𫞉	11-742E	dmlr
+U+2B78A	𫞊	11-742F	dhys
+U+2B78B	𫞋	11-746E	dhoo
+U+2B78C	𫞌	11-746F	dhre
+U+2B78D	𫞍	11-747D	dmwm
+U+2B78E	𫞎	
+U+2B78F	𫞏	
+U+2B790	𫞐	11-7527	dtog
+U+2B791	𫞑	11-752F	demw
+U+2B792	𫞒	11-7536	dmda
+U+2B793	𫞓	11-745E	yhmfp
+U+2B794	𫞔	11-747E	mnjic
+U+2B795	𫞕	
+U+2B796	𫞖	11-7357	rvpi
+U+2B797	𫞗	11-7430	elsk
+U+2B798	𫞘	11-7441	ellk
+U+2B799	𫞙	11-745F	etci
+U+2B79A	𫞚	11-7460	eioo
+U+2B79B	𫞛	11-7461	eiva
+U+2B79C	𫞜	
+U+2B79D	𫞝	11-7528	elso
+U+2B79E	𫞞	11-7537	etag
+U+2B79F	𫞟	
+U+2B7A0	𫞠	
+U+2B7A1	𫞡	11-7470	ftjd
+U+2B7A2	𫞢	11-737A	fbhq
+U+2B7A3	𫞣	11-7367	khij
+U+2B7A4	𫞤	11-7442	khgvv
+U+2B7A5	𫞥	11-7368	mgbo
+U+2B7A6	𫞦	11-7431	mgykl
+U+2B7A7	𫞧	11-7443	mgtbs
+U+2B7A8	𫞨	11-7471	mglit
+U+2B7A9	𫞩	11-7478	mgtmb
+U+2B7AA	𫞪	11-737B	tmmv
+U+2B7AB	𫞫	
+U+2B7AC	𫞬	11-7432	keg
+U+2B7AD	𫞭	11-733B	kbch
+U+2B7AE	𫞮	11-7433	hapr
+U+2B7AF	𫞯	
+U+2B7B0	𫞰	
+U+2B7B1	𫞱	11-7462	grbt
+U+2B7B2	𫞲	
+U+2B7B3	𫞳	11-732E	buheq
+U+2B7B4	𫞴	
+U+2B7B5	𫞵	11-744C	ifbbm
+U+2B7B6	𫞶	11-752D	ifotf
+U+2B7B7	𫞷	11-7444	hdomi
+U+2B7B8	𫞸	11-7463	hddw
+U+2B7B9	𫞹	11-735E	jcnm
+U+2B7BA	𫞺	11-753D	jcbdb
+U+2B7BB	𫞻	11-7333	ytmn
+U+2B7BC	𫞼	11-7326	ytklg
+U+2B7BD	𫞽	
+U+2B7BE	𫞾	11-7521	hwpp
+U+2B7BF	𫞿	11-7522	hiid
+U+2B7C0	𫟀	11-7530	fdmbs
+U+2B7C1	𫟁	
+U+2B7C2	𫟂	11-7329	vfjty
+U+2B7C3	𫟃	11-737C	vmohg
+U+2B7C4	𫟄	11-7434	vmjki
+U+2B7C5	𫟅	11-7445	vmyrf
+U+2B7C6	𫟆	11-7451	vmhjg
+U+2B7C7	𫟇	11-7531	vmish
+U+2B7C8	𫟈	11-737D	tqkk
+U+2B7C9	𫟉	11-7369	sji
+U+2B7CA	𫟊	11-732D	bitb
+U+2B7CB	𫟋	11-7452	hxyc
+U+2B7CC	𫟌	11-736A	tniy
+U+2B7CD	𫟍	11-736B	tnip
+U+2B7CE	𫟎	11-737E	tsmu
+U+2B7CF	𫟏	11-7435	thui
+U+2B7D0	𫟐	11-7436	tjys
+U+2B7D1	𫟑	11-7437	tsmf
+U+2B7D2	𫟒	11-7453	ttjd
+U+2B7D3	𫟓	11-7454	tofr
+U+2B7D4	𫟔	11-7464	ttuo
+U+2B7D5	𫟕	11-7472	tcjl
+U+2B7D6	𫟖	11-7523	tivs
+U+2B7D7	𫟗	11-7336	lijbf
+U+2B7D8	𫟘	
+U+2B7D9	𫟙	
+U+2B7DA	𫟚	11-7465	hjwv
+U+2B7DB	𫟛	11-7455	mwwj
+U+2B7DC	𫟜	11-753E	tgbuu
+U+2B7DD	𫟝	11-753F	yryav
+U+2B7DE	𫟞	11-7358	ivylm
+U+2B7DF	𫟟	11-735F	ivfq
+U+2B7E0	𫟠	11-7438	ivcwj
+U+2B7E1	𫟡	11-7439	ivjmf
+U+2B7E2	𫟢	11-7456	ivmwo
+U+2B7E3	𫟣	11-7325	rmgrv
+U+2B7E4	𫟤	11-7421	kqjp
+U+2B7E5	𫟥	11-7473	kqjbc
+U+2B7E6	𫟦	11-7532	kqyto
+U+2B7E7	𫟧	11-733A	ymn
+U+2B7E8	𫟨	11-7457	ygyv
+U+2B7E9	𫟩	11-7458	yfqu
+U+2B7EA	𫟪	11-7529	yhar
+U+2B7EB	𫟫	11-736C	msnl
+U+2B7EC	𫟬	11-7446	honl
+U+2B7ED	𫟭	11-7459	jrnl
+U+2B7EE	𫟮	11-7332	mwhyi
+U+2B7EF	𫟯	11-7422	ywg
+U+2B7F0	𫟰	11-7474	cfsm
+U+2B7F1	𫟱	11-7538	cgwi
+U+2B7F2	𫟲	11-7360	ckn
+U+2B7F3	𫟳	11-736D	cru
+U+2B7F4	𫟴	11-7423	ccsh
+U+2B7F5	𫟵	11-7424	cihu
+U+2B7F6	𫟶	11-743A	cbbm
+U+2B7F7	𫟷	11-743B	cyt
+U+2B7F8	𫟸	11-7447	cipm
+U+2B7F9	𫟹	11-7448	ctc
+U+2B7FA	𫟺	11-7449	cyvo
+U+2B7FB	𫟻	11-744A	cill
+U+2B7FC	𫟼	11-744B	cyk
+U+2B7FD	𫟽	11-7466	chjp
+U+2B7FE	𫟾	11-7475	chem
+U+2B7FF	𫟿	11-7476	ctqm
+U+2B800	𫠀	11-7524	cmta
+U+2B801	𫠁	11-7539	ctgt
+U+2B802	𫠂	11-736E	lsoii
+U+2B803	𫠃	11-745A	nlatc
+U+2B804	𫠄	11-7331	dqyvo
+U+2B805	𫠅	11-7467	qstlj
+U+2B806	𫠆	11-743C	jembo
+U+2B807	𫠇	11-736F	hnyk
+U+2B808	𫠈	11-7425	hnph
+U+2B809	𫠉	11-7361	sqsm
+U+2B80A	𫠊	11-7370	nmyvi
+U+2B80B	𫠋	11-7477	nmixp
+U+2B80C	𫠌	11-752A	nmmfn
+U+2B80D	𫠍	11-753C	nfcj
+U+2B80E	𫠎	11-7339	nfmwc
+U+2B80F	𫠏	11-745B	nmd
+U+2B810	𫠐	11-7468	nmtm
+U+2B811	𫠑	11-7533	nmhxe
+U+2B812	𫠒	11-753A	nmytj
+U+2B813	𫠓	11-7371	haym
+U+2B814	𫠔	11-752B	nphaf
+U+2B815	𫠕	11-753B	iogf
+U+2B816	𫠖	11-7426	kipym
+U+2B817	𫠗	11-7525	ywomo
+U+2B818	𫠘	11-7469	fnlw
+U+2B819	𫠙	11-7337	yuhne
+U+2B81A	𫠚	11-7534	yupr
+U+2B81B	𫠛	11-7330	yuahm
+U+2B81C	𫠜	11-752C	yuhxu
+U+2B81D	𫠝	
