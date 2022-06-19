@@ -31,25 +31,28 @@ U+4E18	丘	1-4563	hlm,om
 
 + [All.txt] (整合下面 CJK/A/B/C/D/E/F/G/Compatibility/Compatibility-Supplement)
 + [CJK-Unified-Ideographs.txt] (中日韩统一表意文字)
-    + [Basic 区没有编码的字]
+    + [Basic 区没有 CNS11643 编码的字]
+    + [Basic 区没有 Cangjie 编码的字]
 + [CJK-Unified-Ideographs-Extension-A.txt] (中日韩统一表意文字扩展区 A)
-    + [A 区没有编码的字]
+    + [A 区没有 CNS11643 编码的字]
 + [CJK-Unified-Ideographs-Extension-B.txt] (中日韩统一表意文字扩展区 B)
-    + [B 区没有编码的字]
+    + [B 区没有 CNS11643 编码的字]
 + [CJK-Unified-Ideographs-Extension-C.txt] (中日韩统一表意文字扩展区 C)
-    + [C 区没有编码的字]
+    + [C 区没有 CNS11643 编码的字]
 + [CJK-Unified-Ideographs-Extension-D.txt] (中日韩统一表意文字扩展区 D)
-    + [D 区没有编码的字]
+    + [D 区没有 CNS11643 编码的字]
 + [CJK-Unified-Ideographs-Extension-E.txt] (中日韩统一表意文字扩展区 E)
-    + [E 区没有编码的字]
+    + [E 区没有 CNS11643 编码的字]
 + [CJK-Unified-Ideographs-Extension-F.txt] (中日韩统一表意文字扩展区 F)
-    + 所有字都没有编码
+    + 所有字都没有 CNS11643 编码
+    + 所有字都没有 Cangjie 编码
 + [CJK-Unified-Ideographs-Extension-G.txt] (中日韩统一表意文字扩展区 G)
-    + 所有字都没有编码
+    + 所有字都没有 CNS11643 编码
+    + 所有字都没有 Cangjie 编码
 + [CJK-Compatibility-Ideographs.txt] (中日韩兼容表意文字)
-    + [Compat 区没有编码的字]
+    + [Compat 区没有 CNS11643 编码的字]
 + [CJK-Compatibility-Ideographs-Supplement.txt] (中日韩兼容表意文字增补)
-    + [Compat-Supplement 区没有编码的字]
+    + [Compat-Supplement 区没有 CNS11643 编码的字]
 
 **注：**
 
@@ -68,14 +71,16 @@ U+4E18	丘	1-4563	hlm,om
 [CJK-Compatibility-Ideographs.txt]: CJK-Compatibility-Ideographs.txt
 [CJK-Compatibility-Ideographs-Supplement.txt]: CJK-Compatibility-Ideographs-Supplement.txt
 
-[Basic 区没有编码的字]: 无CNS.CJK-Unified-Ideographs.txt
-[A 区没有编码的字]: 无CNS.CJK-Unified-Ideographs-Extension-A.txt
-[B 区没有编码的字]: 无CNS.CJK-Unified-Ideographs-Extension-B.txt
-[C 区没有编码的字]: 无CNS.CJK-Unified-Ideographs-Extension-C.txt
-[D 区没有编码的字]: 无CNS.CJK-Unified-Ideographs-Extension-D.txt
-[E 区没有编码的字]: 无CNS.CJK-Unified-Ideographs-Extension-E.txt
-[Compat 区没有编码的字]: 无CNS.CJK-Compatibility-Ideographs.txt
-[Compat-Supplement 区没有编码的字]: 无CNS.CJK-Compatibility-Ideographs-Supplement.txt
+[Basic 区没有 CNS11643 编码的字]: 无CNS.CJK-Unified-Ideographs.txt
+[A 区没有 CNS11643 编码的字]: 无CNS.CJK-Unified-Ideographs-Extension-A.txt
+[B 区没有 CNS11643 编码的字]: 无CNS.CJK-Unified-Ideographs-Extension-B.txt
+[C 区没有 CNS11643 编码的字]: 无CNS.CJK-Unified-Ideographs-Extension-C.txt
+[D 区没有 CNS11643 编码的字]: 无CNS.CJK-Unified-Ideographs-Extension-D.txt
+[E 区没有 CNS11643 编码的字]: 无CNS.CJK-Unified-Ideographs-Extension-E.txt
+[Compat 区没有 CNS11643 编码的字]: 无CNS.CJK-Compatibility-Ideographs.txt
+[Compat-Supplement 区没有 CNS11643 编码的字]: 无CNS.CJK-Compatibility-Ideographs-Supplement.txt
+
+[Basic 区没有 Cangjie 编码的字]: 无CJ.CJK-Unified-Ideographs.txt
 
 ## 参考资料
 
