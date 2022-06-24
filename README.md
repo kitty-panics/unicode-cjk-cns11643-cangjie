@@ -1,8 +1,6 @@
-# CNS11643-Unicode-Cangjie
+# Unicode-CJK-CNS11643-Cangjie
 
-[CNS11643]、Unicode、Cangjie 对照表。
-
-[CNS11643]: https://data.gov.tw/dataset/5961
+[Unicode]、[CNS11643]、Cangjie 对照表。
 
 ## 协作整理
 
@@ -12,12 +10,12 @@
 + 如果不会 Git 操作可在 [Issues] 中发起反馈。
 + 如果熟悉 Git 操作可在更正错误后发起 [PR]。
 
-[Issues]: https://github.com/kitty-panics/CNS11643-Unicode-Cangjie/issues
-[PR]: https://github.com/kitty-panics/CNS11643-Unicode-Cangjie/pulls
+[Issues]: https://github.com/kitty-panics/unicode-cjk-cns11643-cangjie/issues
+[PR]: https://github.com/kitty-panics/unicode-cjk-cns11643-cangjie/pulls
 
 ## 数据格式
 
-每个文件一行一字，以 Tab (制表符) 进行分割，如果某字存在多个 Cangjie 编码时，以
+每个文件一行一字，以 Tab (制表符) 进行分割，如果某字存在多个仓颉编码时，以
 `,` (英文逗号) 字符进行分割，例：
 
 ```Text
@@ -29,30 +27,28 @@ U+4E18	丘	1-4563	hlm,om
 
 ## 文件列表
 
-+ [All.txt] (整合下面 CJK/A/B/C/D/E/F/G/Compatibility/Compatibility-Supplement)
++ [All.txt] (整合下面 CJK-Basic/A/B/C/D/E/F/G/Compat/Compat-Supplement)
 + [CJK-Unified-Ideographs.txt] (中日韩统一表意文字)
-    + [Basic 区没有 CNS11643 编码的字]
-    + [Basic 区没有 Cangjie 编码的字]
+    + [Basic 区无 CNS11643、Cangjie 编码的字]
+    + [Basic 区有 CNS11643 但无 Cangjie 编码的字]
 + [CJK-Unified-Ideographs-Extension-A.txt] (中日韩统一表意文字扩展区 A)
-    + [A 区没有 CNS11643 编码的字]
+    + [A 区无 CNS11643、Cangjie 编码的字]
 + [CJK-Unified-Ideographs-Extension-B.txt] (中日韩统一表意文字扩展区 B)
-    + [B 区没有 CNS11643 编码的字]
+    + [B 区无 CNS11643、Cangjie 编码的字]
 + [CJK-Unified-Ideographs-Extension-C.txt] (中日韩统一表意文字扩展区 C)
-    + [C 区没有 CNS11643 编码的字]
+    + [C 区无 CNS11643、Cangjie 编码的字]
 + [CJK-Unified-Ideographs-Extension-D.txt] (中日韩统一表意文字扩展区 D)
-    + [D 区没有 CNS11643 编码的字]
+    + [D 区无 CNS11643、Cangjie 编码的字]
 + [CJK-Unified-Ideographs-Extension-E.txt] (中日韩统一表意文字扩展区 E)
-    + [E 区没有 CNS11643 编码的字]
+    + [E 区无 CNS11643、Cangjie 编码的字]
 + [CJK-Unified-Ideographs-Extension-F.txt] (中日韩统一表意文字扩展区 F)
-    + 所有字都没有 CNS11643 编码
-    + 所有字都没有 Cangjie 编码
+    + 所有字都无 CNS11643、Cangjie 编码
 + [CJK-Unified-Ideographs-Extension-G.txt] (中日韩统一表意文字扩展区 G)
-    + 所有字都没有 CNS11643 编码
-    + 所有字都没有 Cangjie 编码
+    + 所有字都无 CNS11643、Cangjie 编码
 + [CJK-Compatibility-Ideographs.txt] (中日韩兼容表意文字)
-    + [Compat 区没有 CNS11643 编码的字]
+    + [Compat 区无 CNS11643、Cangjie 编码的字]
 + [CJK-Compatibility-Ideographs-Supplement.txt] (中日韩兼容表意文字增补)
-    + [Compat-Supplement 区没有 CNS11643 编码的字]
+    + [Compat-Supplement 区无 CNS11643、Cangjie 编码的字]
 
 **注：**
 
@@ -71,16 +67,16 @@ U+4E18	丘	1-4563	hlm,om
 [CJK-Compatibility-Ideographs.txt]: CJK-Compatibility-Ideographs.txt
 [CJK-Compatibility-Ideographs-Supplement.txt]: CJK-Compatibility-Ideographs-Supplement.txt
 
-[Basic 区没有 CNS11643 编码的字]: 无CNS.CJK-Unified-Ideographs.txt
-[A 区没有 CNS11643 编码的字]: 无CNS.CJK-Unified-Ideographs-Extension-A.txt
-[B 区没有 CNS11643 编码的字]: 无CNS.CJK-Unified-Ideographs-Extension-B.txt
-[C 区没有 CNS11643 编码的字]: 无CNS.CJK-Unified-Ideographs-Extension-C.txt
-[D 区没有 CNS11643 编码的字]: 无CNS.CJK-Unified-Ideographs-Extension-D.txt
-[E 区没有 CNS11643 编码的字]: 无CNS.CJK-Unified-Ideographs-Extension-E.txt
-[Compat 区没有 CNS11643 编码的字]: 无CNS.CJK-Compatibility-Ideographs.txt
-[Compat-Supplement 区没有 CNS11643 编码的字]: 无CNS.CJK-Compatibility-Ideographs-Supplement.txt
+[Basic 区无 CNS11643、Cangjie 编码的字]: 无CNS.CJK-Unified-Ideographs.txt
+[A 区无 CNS11643、Cangjie 编码的字]: 无CNS.CJK-Unified-Ideographs-Extension-A.txt
+[B 区无 CNS11643、Cangjie 编码的字]: 无CNS.CJK-Unified-Ideographs-Extension-B.txt
+[C 区无 CNS11643、Cangjie 编码的字]: 无CNS.CJK-Unified-Ideographs-Extension-C.txt
+[D 区无 CNS11643、Cangjie 编码的字]: 无CNS.CJK-Unified-Ideographs-Extension-D.txt
+[E 区无 CNS11643、Cangjie 编码的字]: 无CNS.CJK-Unified-Ideographs-Extension-E.txt
+[Compat 区无 CNS11643、Cangjie 编码的字]: 无CNS.CJK-Compatibility-Ideographs.txt
+[Compat-Supplement 区无 CNS11643、Cangjie 编码的字]: 无CNS.CJK-Compatibility-Ideographs-Supplement.txt
 
-[Basic 区没有 Cangjie 编码的字]: 无CJ.CJK-Unified-Ideographs.txt
+[Basic 区有 CNS11643 但无 Cangjie 编码的字]: 无CJ.CJK-Unified-Ideographs.txt
 
 ## 参考资料
 
@@ -99,19 +95,12 @@ U+4E18	丘	1-4563	hlm,om
 
 [cn-tables]: https://github.com/kitty-panics/cn-tables
 
-### [CNS11643-Unicode-Cangjie]
-
-[CNS11643]、Unicode、Cangjie 对照表。
-
-[CNS11643-Unicode-Cangjie]: https://github.com/kitty-panics/CNS11643-Unicode-Cangjie
-[CNS11643]: https://data.gov.tw/dataset/5961
-
 ### [unicode-cjk]
 
-整理所有 [Unicode] CJK 字符。
+整理所有 [Unicode CJK] 字符。
 
 [unicode-cjk]: https://github.com/kitty-panics/unicode-cjk
-[Unicode]: https://www.unicode.org/Public/UNIDATA/Blocks.txt
+[Unicode CJK]: https://www.unicode.org/Public/UCD/latest/ucd/Blocks.txt
 
 ### [unicode-cjk-98wubi]
 
@@ -120,12 +109,27 @@ U+4E18	丘	1-4563	hlm,om
 [unicode-cjk-98wubi]: https://github.com/kitty-panics/unicode-cjk-98wubi
 [五笔98]: http://98wb.ysepan.com
 
+### [unicode-cjk-cangjie5]
+
+整理 Unicode CJK 字符的 [仓颉5] 编码。
+
+[unicode-cjk-cangjie5]: https://github.com/kitty-panics/unicode-cjk-cangjie5
+[仓颉5]: https://github.com/Jackchows/Cangjie5
+
+### [unicode-cjk-cns11643-cangjie]
+
+[Unicode]、[CNS11643]、Cangjie 对照表。
+
+[unicode-cjk-cns11643-cangjie]: https://github.com/kitty-panics/unicode-cjk-cns11643-cangjie
+[Unicode]: https://www.unicode.org/Public/UCD/latest
+[CNS11643]: https://data.gov.tw/dataset/5961
+
 ### [unicode-cjk-ids]
 
 备份、修补 [chise/ids]。
 
 [unicode-cjk-ids]: https://github.com/kitty-panics/unicode-cjk-ids
-[chise/ids]: http://git.chise.org/git/chise/ids.git
+[chise/ids]: https://gitlab.chise.org/CHISE/ids.git
 
 ### [unicode-cjk-zhlf]
 
