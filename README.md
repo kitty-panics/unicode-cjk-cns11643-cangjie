@@ -32,15 +32,15 @@ U+4E18	丘	1-4563	hlm,om
     + [Basic 区无 CNS11643、Cangjie 编码的字]
     + [Basic 区有 CNS11643 但无 Cangjie 编码的字]
 + [CJK-Unified-Ideographs-Extension-A.txt] (中日韩统一表意文字扩展区 A)
-    + [A 区无 CNS11643、Cangjie 编码的字]
+    + [扩 A 区无 CNS11643、Cangjie 编码的字]
 + [CJK-Unified-Ideographs-Extension-B.txt] (中日韩统一表意文字扩展区 B)
-    + [B 区无 CNS11643、Cangjie 编码的字]
+    + [扩 B 区无 CNS11643、Cangjie 编码的字]
 + [CJK-Unified-Ideographs-Extension-C.txt] (中日韩统一表意文字扩展区 C)
-    + [C 区无 CNS11643、Cangjie 编码的字]
+    + [扩 C 区无 CNS11643、Cangjie 编码的字]
 + [CJK-Unified-Ideographs-Extension-D.txt] (中日韩统一表意文字扩展区 D)
-    + [D 区无 CNS11643、Cangjie 编码的字]
+    + [扩 D 区无 CNS11643、Cangjie 编码的字]
 + [CJK-Unified-Ideographs-Extension-E.txt] (中日韩统一表意文字扩展区 E)
-    + [E 区无 CNS11643、Cangjie 编码的字]
+    + [扩 E 区无 CNS11643、Cangjie 编码的字]
 + [CJK-Unified-Ideographs-Extension-F.txt] (中日韩统一表意文字扩展区 F)
     + 所有字都无 CNS11643、Cangjie 编码
 + [CJK-Unified-Ideographs-Extension-G.txt] (中日韩统一表意文字扩展区 G)
@@ -68,11 +68,11 @@ U+4E18	丘	1-4563	hlm,om
 [CJK-Compatibility-Ideographs-Supplement.txt]: CJK-Compatibility-Ideographs-Supplement.txt
 
 [Basic 区无 CNS11643、Cangjie 编码的字]: 无CNS.CJK-Unified-Ideographs.txt
-[A 区无 CNS11643、Cangjie 编码的字]: 无CNS.CJK-Unified-Ideographs-Extension-A.txt
-[B 区无 CNS11643、Cangjie 编码的字]: 无CNS.CJK-Unified-Ideographs-Extension-B.txt
-[C 区无 CNS11643、Cangjie 编码的字]: 无CNS.CJK-Unified-Ideographs-Extension-C.txt
-[D 区无 CNS11643、Cangjie 编码的字]: 无CNS.CJK-Unified-Ideographs-Extension-D.txt
-[E 区无 CNS11643、Cangjie 编码的字]: 无CNS.CJK-Unified-Ideographs-Extension-E.txt
+[扩 A 区无 CNS11643、Cangjie 编码的字]: 无CNS.CJK-Unified-Ideographs-Extension-A.txt
+[扩 B 区无 CNS11643、Cangjie 编码的字]: 无CNS.CJK-Unified-Ideographs-Extension-B.txt
+[扩 C 区无 CNS11643、Cangjie 编码的字]: 无CNS.CJK-Unified-Ideographs-Extension-C.txt
+[扩 D 区无 CNS11643、Cangjie 编码的字]: 无CNS.CJK-Unified-Ideographs-Extension-D.txt
+[扩 E 区无 CNS11643、Cangjie 编码的字]: 无CNS.CJK-Unified-Ideographs-Extension-E.txt
 [Compat 区无 CNS11643、Cangjie 编码的字]: 无CNS.CJK-Compatibility-Ideographs.txt
 [Compat-Supplement 区无 CNS11643、Cangjie 编码的字]: 无CNS.CJK-Compatibility-Ideographs-Supplement.txt
 
